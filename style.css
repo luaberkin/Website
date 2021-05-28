@@ -1,0 +1,94 @@
+.clothes{
+    background-color: black;
+    padding: 7px;
+}
+
+input{
+    border: 2px solid black;
+    padding: 7px;
+    width: 500px;
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-right: 80px;
+}
+
+.s{
+    background-color: black;
+    padding: 7px
+}
+
+h1{
+    font-size: 50px;
+    font-family: courier new;
+    font-style:oblique;
+    color: #2b2d30;
+    margin-top: 75px;
+}
+#a123{
+    font-size: 30px;
+    font-family: colibri;
+    color: #5d5f61;
+    margin-top: -35px;
+}
+
+#a111{
+    font-size: 35px;
+    font-family: geneva;
+    color:#b00e3c;
+    opacity: 0.75;
+    padding: 0px;
+    margin-top: -35px;
+    margin-bottom: 130px;
+}
+
+#a555{
+    align-content: center;
+background-image: linear-gradient(to bottom right, #E6BE8A, grey);   
+    height: 650px;
+    width: 1245px;
+    box-shadow: 50px 50px 50px #8a8686;
+}
+
+#a444{
+    color: white;
+    background-color: #858182;
+    font-size: 50px;
+    padding: 25px;
+    margin-top: 600px;
+    margin-left: 350px;
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
+#a777{
+    transform: scale(0.96);
+    transition: 1s all;
+    background-image: url(https://us.123rf.com/450wm/aregfly/aregfly1901/aregfly190100023/116688594-white-marble-pattern-with-golden-inclusions-abstract-texture-and-background-2d-illustration.jpg?ver=6);
+    height: 150px;
+    width: 1250px;
+    margin-bottom: 85px;
+    display: block;
+}
+
+#a444:hover{
+    background-color: black;
+}
+#a777:hover{
+    transform: rotate(360deg) scale(0.96);
+    background-color: #ff87a1;
+}
+#a888{
+    height: 540px;;
+    width: 25;
+    margin-top: 35px;
+    margin-left: 80px;
+}
+
+#gallery{
+    background-color: #f0eee9;
+}
+#f000{
+    border: 1px solid #bfb8bb;
+    height: 0px;
+    width:100%;
+}
